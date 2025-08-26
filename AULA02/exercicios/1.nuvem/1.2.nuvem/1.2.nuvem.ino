@@ -6,7 +6,7 @@
 
 #include <BlynkSimpleEsp32.h>
 
-#define LED 12
+#define LED 2
 
 BLYNK_WRITE(V0)
 {

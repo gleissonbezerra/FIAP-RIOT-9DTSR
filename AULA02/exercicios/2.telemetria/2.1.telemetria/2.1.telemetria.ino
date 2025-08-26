@@ -42,6 +42,8 @@ void myTimerEvent()
   Serial.print(t);
   Serial.println(F("°C "));
 
+  Blynk.virtualWrite(V1, t);
+
 }
 
 void loop()
