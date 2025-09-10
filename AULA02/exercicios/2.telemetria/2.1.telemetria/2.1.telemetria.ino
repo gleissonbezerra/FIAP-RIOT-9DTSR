@@ -1,8 +1,8 @@
 #define BLYNK_PRINT Serial
 
-#define BLYNK_TEMPLATE_ID ""
-#define BLYNK_TEMPLATE_NAME ""
-#define BLYNK_AUTH_TOKEN ""
+#define BLYNK_TEMPLATE_ID "TMPL2Ok4yIB45"
+#define BLYNK_TEMPLATE_NAME "Dispositivo de Campo"
+#define BLYNK_AUTH_TOKEN "2gqAOj7HlyIcXwdD7tpJZe1ifsI8OjZD"
 
 #include <BlynkSimpleEsp32.h>
 

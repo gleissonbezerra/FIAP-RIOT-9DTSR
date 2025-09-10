@@ -25,7 +25,7 @@ Servo valveServo; // Servo controller
 
 int currentPos = 0; // Servo position 0 = midpoint
 
-float kp = 5, ki = 2.5, kd = 0.01;
+float kp = 0.5, ki = 0.0, kd = 0.0;
 
 long time, startTime;
 long et;
