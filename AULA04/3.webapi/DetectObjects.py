@@ -37,7 +37,7 @@ def main():
 
     CAMERA_INDEX = 1
     CAMERA_INTERVAL = 0.1
-    INFERENCE_URL = "http://raspberrypi01:8080/analyze" 
+    INFERENCE_URL = "http://raspberrypi0:8080/analyze"
 
     vf = cv.VideoCapture(CAMERA_INDEX)
 
